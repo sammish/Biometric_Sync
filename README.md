@@ -1,3 +1,7 @@
-# Biometric_Sync
+## Biometric_Sync
 
-Attendance with Biometric Integration through API
+Customizations for Everyone
+
+#### License
+
+GNU General Public License (GPL)
